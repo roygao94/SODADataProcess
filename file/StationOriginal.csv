@@ -1,0 +1,348 @@
+ST_NO,ST_NAME,ST_NAME_EN,LINE_NO,X,Y,TRANSFER_TAG,SERIAL_NO,ST_HORIZONTAL
+111,莘庄,Xinzhuang                       ,1,201,771,换乘站,28,地面
+112,外环路,Waihuanlu                       ,1,224,738,普通站,27,地面
+113,莲花路,Lianhua Road                    ,1,243,721,普通站,26,地面
+114,锦江乐园,Jinjiang Park                   ,1,270,753,普通站,25,地面
+115,上海南站,Shanghai South Railway Station  ,1,295,730,换乘站,24,地下
+116,漕宝路,Caobao Road                     ,1,290,694,普通站,23,地下
+117,上海体育馆,Shanghai Indoor Stadium         ,1,362,675,换乘站,22,地下
+118,徐家汇,Xujiahui                        ,1,394,654,换乘站,21,地下
+119,衡山路,Hengshan Road                   ,1,419,630,普通站,20,地下
+120,常熟路,Changshu Road                   ,1,450,609,换乘站,19,地下
+121,陕西南路,South Shanxi Road               ,1,458,559,换乘站,18,地下
+122,黄陂南路,South Huangpi Road              ,1,541,569,普通站,17,地下
+123,人民广场,People Square                   ,1,544,546,换乘站,16,地下
+124,新闸路,Xinzha Road                     ,1,483,521,普通站,15,地下
+125,汉中路,Hanzhong Road                   ,1,483,479,普通站,14,地下
+126,上海火车站,Shanghai Railway Station        ,1,527,455,换乘站,13,地下
+127,中山北路,North Zhongshan Road            ,1,489,420,普通站,12,地下
+128,延长路,Yanchang Road                   ,1,522,397,普通站,11,地下
+129,上海马戏城,Shanghai Circus World           ,1,500,372,普通站,10,地下
+130,汶水路,Wenshui Road                    ,1,520,341,普通站,9,高架
+131,彭浦新村,Pengpu Xincun                   ,1,509,316,普通站,8,高架
+132,共康路,Gongkang Road                   ,1,519,287,普通站,7,高架
+133,通河新村,Tonghe Xincun                   ,1,509,257,普通站,6,高架
+134,呼兰路,Hulan Road                      ,1,517,226,普通站,5,高架
+135,共富新村,Gongfu Xincun                   ,1,506,195,普通站,4,高架
+136,宝安公路,BaoAn Highway                   ,1,507,166,普通站,3,高架
+137,友谊西路,West Youyi Road                 ,1,507,137,普通站,2,高架
+138,富锦路,Fujin Road                      ,1,518,102,普通站,1,高架
+234,徐泾东,East Xujin                      ,2,135,476,普通站,1,地下
+235,虹桥火车站,Hongqiao Railway Station        ,2,172,456,换乘站,2,地下
+236,虹桥2号航站楼,Hongqiao Airport Terminal 2     ,2,191,440,换乘站,3,地下
+237,淞虹路,Songhong Road                   ,2,214,476,普通站,4,地下
+238,北新泾,Beixinjing                      ,2,248,477,普通站,5,地下
+239,威宁路,Weining Road                    ,2,273,477,普通站,6,地下
+240,娄山关路,Loushanguan Road                ,2,297,466,普通站,7,地下
+241,中山公园,Zhongshan Park                  ,2,349,527,换乘站,8,地下
+242,江苏路,Jiangsu Road                    ,2,396,507,换乘站,9,地下
+243,静安寺,JingAn Temple                   ,2,405,555,换乘站,10,地下
+244,南京西路,West Nanjing Road               ,2,482,537,普通站,11,地下
+245,人民广场,People Square                   ,2,544,547,换乘站,12,地下
+246,南京东路,East Nanjing Road               ,2,616,564,换乘站,13,地下
+247,陆家嘴,Lujiazui                        ,2,662,541,普通站,14,地下
+248,东昌路,Dongchang Road                  ,2,634,576,普通站,15,地下
+249,世纪大道,Century Avenue                  ,2,692,569,换乘站,16,地下
+250,上海科技馆,Shanghai ST Museum              ,2,725,643,普通站,17,地下
+251,世纪公园,Century Park                    ,2,739,677,普通站,18,地下
+252,龙阳路,Longyang Road                   ,2,764,744,换乘站,19,地下
+253,张江高科,Zhangjiang High Technology Park ,2,752,780,普通站,20,地下
+254,金科路,Jinke Road                      ,2,784,778,普通站,21,地下
+255,广兰路,Guanglan Road                   ,2,812,779,普通站,22,地下
+256,唐镇,Tangzhen                        ,2,838,780,普通站,23,地下
+257,创新中路,Middle Chuangxin Road           ,2,865,780,普通站,24,地下
+258,华夏东路,East Huaxia Road                ,2,886,782,普通站,25,地下
+259,川沙,Chuansha                        ,2,922,769,普通站,26,地下
+260,凌空路,Lingkong Road                   ,2,920,797,普通站,27,地下
+261,远东大道,Yuandong Avenue                 ,2,920,818,普通站,28,高架
+262,海天三路,Haitiansan Road                 ,2,917,846,普通站,29,地面
+263,浦东国际机场,Pudong International Airport    ,2,918,877,普通站,30,地面
+311,上海南站,Shanghai South Station          ,3,295,730,换乘站,29,地面
+312,石龙路,Shilong Road                    ,3,331,737,普通站,28,地面
+313,龙漕路,Longcao Road                    ,3,350,686,普通站,27,高架
+314,漕溪路,Caoxi Road                      ,3,348,675,普通站,26,高架
+315,宜山路,Yishan Road                     ,3,349,632,换乘站,25,高架
+316,虹桥路,Hongqiao Road                   ,3,322,599,换乘站,24,高架
+317,延安西路,West YanAn Road                 ,3,347,556,换乘站,23,高架
+318,中山公园,Zhongshan Park                  ,3,349,527,换乘站,22,高架
+319,金沙江路,Jinshajiang Road                ,3,343,455,换乘站,21,高架
+320,曹杨路,Caoyang Road                    ,3,397,449,换乘站,20,高架
+321,镇坪路,Zhenping Road                   ,3,418,433,换乘站,19,高架
+322,中潭路,Zhongtan Road                   ,3,460,434,换乘站,18,高架
+323,上海火车站,Shanghai Railway Station        ,3,527,455,换乘站,17,地面
+324,宝山路,Baoshan Road                    ,3,572,451,换乘站,16,高架
+325,东宝兴路,Dongbaoxing Road                ,3,606,410,普通站,15,高架
+326,虹口足球场,Hongkou Football Stadium        ,3,571,372,换乘站,14,高架
+327,赤峰路,Chifeng Road                    ,3,587,354,普通站,13,高架
+328,大柏树,Dabaishu                        ,3,588,324,普通站,12,高架
+329,江湾镇,Jiangwan Town                   ,3,588,292,普通站,11,高架
+330,殷高西路,West Yingao Road                ,3,578,262,普通站,10,高架
+331,长江南路,South Changjiang Road           ,3,579,231,普通站,9,高架
+332,淞发路,Songfa Road                     ,3,612,211,普通站,8,高架
+333,张华浜,Zhanghuabang                    ,3,634,189,普通站,7,高架
+334,淞浜路,Songbin Road                    ,3,633,162,普通站,6,高架
+335,水产路,Shuichan Road                   ,3,633,133,普通站,5,高架
+336,宝杨路,Baoyang Road                    ,3,633,105,普通站,4,高架
+337,友谊路,Youyi Road                      ,3,633,74,普通站,3,高架
+338,铁力路,Tieli Road                      ,3,633,52,普通站,2,地下
+339,江杨北路,North Jiangyang Road            ,3,622,34,普通站,1,地面
+401,上海体育馆,Shanghai Indoor Stadium         ,4,362,675,换乘站,1,地下
+402,宜山路,Yishan Road                     ,4,348,632,换乘站,2,地下
+403,虹桥路,Hongqiao Road                   ,4,323,582,换乘站,3,高架
+404,延安西路,West YanAn Road                 ,4,348,556,换乘站,4,高架
+405,中山公园,Zhongshan Park                  ,4,349,527,换乘站,5,高架
+406,金沙江路,Jinshajiang Road                ,4,343,455,换乘站,6,高架
+407,曹杨路,Caoyang Road                    ,4,397,451,换乘站,7,高架
+408,镇坪路,Zhenping Road                   ,4,418,433,换乘站,8,高架
+409,中潭路,Zhongtan Road                   ,4,470,433,换乘站,9,高架
+410,上海火车站,Shanghai Railway Station        ,4,527,455,换乘站,10,地面
+411,宝山路,Baoshan Road                    ,4,571,452,换乘站,11,高架
+412,海伦路,Hailun Road                     ,4,634,450,换乘站,12,地下
+413,临平路,Linping Road                    ,4,682,464,普通站,13,地下
+414,大连路,Dalian Road                     ,4,698,501,换乘站,14,地下
+415,杨树浦路,Yangshupu Road                  ,4,700,528,普通站,15,地下
+416,浦东大道,Pudong Avenue                   ,4,699,554,普通站,16,地下
+417,世纪大道,Century Avenue                  ,4,692,569,换乘站,17,地下
+418,浦电路,Pudian Road                     ,4,692,655,普通站,18,地下
+419,蓝村路,Lancun Road                     ,4,680,677,换乘站,19,地下
+420,塘桥,Tangqiao                        ,4,621,678,普通站,20,地下
+421,南浦大桥,Nanpu Bridge                    ,4,584,655,普通站,21,地下
+422,西藏南路,South Xizang Road               ,4,529,678,换乘站,22,地下
+423,鲁班路,Luban Road                      ,4,522,676,普通站,23,地下
+424,大木桥路,Damuqiao Road                   ,4,479,677,普通站,24,地下
+425,东安路,DongAn Road                     ,4,453,652,换乘站,25,地下
+426,上海体育场,Shanghai Stadium                ,4,414,669,普通站,26,地下
+501,莘庄,Xinzhuang                       ,5,201,771,换乘站,1,高架
+502,春申路,Chunshen Road                   ,5,218,861,普通站,2,高架
+503,银都路,Yindu Road                      ,5,219,885,普通站,3,高架
+505,颛桥,Zhuanqiao                       ,5,220,910,普通站,4,高架
+507,北桥,Beiqiao                         ,5,219,932,普通站,5,高架
+508,剑川路,Jianchuan Road                  ,5,218,956,普通站,6,高架
+509,东川路,Dongchuan Road                  ,5,217,981,普通站,7,高架
+510,金平路,Jinping Road                    ,5,179,965,普通站,8,高架
+511,华宁路,Huaning Road                    ,5,157,964,普通站,9,高架
+512,文井路,Wenjing Road                    ,5,126,963,普通站,10,高架
+513,闵行开发区,Minhang Development Zone        ,5,96,943,普通站,11,高架
+621,东方体育中心,Oriental Sports Center          ,6,358,838,换乘站,1,地下
+622,灵岩南路,South Lingyan Road              ,6,484,841,普通站,2,地下
+623,上南路,Shangnan Road                   ,6,531,840,普通站,3,地下
+624,华夏西路,West Huaxia Road                ,6,619,837,普通站,4,地下
+625,高青路,Gaoqing Road                    ,6,616,801,普通站,5,地下
+626,东明路,Dongming Road                   ,6,622,771,普通站,6,地下
+627,高科西路,West Gaoke Road                 ,6,608,747,换乘站,7,地下
+628,临沂新村,Linyi Xincun                    ,6,573,687,普通站,8,地下
+629,上海儿童医学中心,Children Medical Center         ,6,635,719,普通站,9,地下
+630,蓝村路,Lancun Road                     ,6,680,677,换乘站,10,地下
+631,浦电路,Pudian Road                     ,6,634,631,普通站,11,地下
+632,世纪大道,Century Avenue                  ,6,692,569,换乘站,12,地下
+633,源深体育中心,Yuanshen Stadium                ,6,721,598,普通站,13,地下
+634,民生路,Minsheng Road                   ,6,746,542,普通站,14,地下
+635,北洋泾路,Beiyangjing Road                ,6,773,531,普通站,15,地下
+636,德平路,Deping Road                     ,6,803,543,普通站,16,地下
+637,云山路,Yunshan Road                    ,6,830,543,普通站,17,地下
+638,金桥路,Jinqiao Road                    ,6,852,543,普通站,18,地下
+639,博兴路,Boxing Road                     ,6,892,582,普通站,19,地下
+640,五莲路,Wulian Road                     ,6,891,543,普通站,20,高架
+641,巨峰路,Jufeng Road                     ,6,889,501,换乘站,21,高架
+642,东靖路,Dongjing Road                   ,6,893,453,普通站,22,高架
+643,五洲大道,Wuzhou Avenue                   ,6,892,422,普通站,23,高架
+644,洲海路,Zhouhai Road                    ,6,892,387,普通站,24,高架
+645,外高桥保税区南,South Waigaoqiao Free Trade Zone,6,911,353,普通站,25,高架
+646,航津路,Hangjin Road                    ,6,913,314,普通站,26,高架
+647,外高桥保税区北,North Waigaoqiao Free Trade Zone,6,911,279,普通站,27,高架
+648,港城路,Gangcheng Road                  ,6,911,252,普通站,28,高架
+721,美兰湖,Meilan Lake                     ,7,388,74,普通站,1,高架
+722,罗南新村,Luonan Xincun                   ,7,380,99,普通站,2,高架
+723,潘广路,Panguang Road                   ,7,390,122,普通站,3,地下
+724,刘行,Liuhang                         ,7,394,146,普通站,4,地下
+725,顾村公园,Gucun Park                      ,7,377,171,普通站,5,地下
+726,祁华路,Qihua  Road                     ,7,391,195,普通站,6,地下
+727,上海大学站,Shanghai  University            ,7,464,212,普通站,7,地下
+728,南陈路,Nanchen  Road                   ,7,442,250,普通站,8,地下
+729,上大路,Shangda  Road                   ,7,443,270,普通站,9,地下
+730,场中路,Changzhong  Road                ,7,443,295,普通站,10,地下
+731,大场镇,Dachang  Town                   ,7,443,319,普通站,11,地下
+732,行知路,Xingzhi  Road                   ,7,445,347,普通站,12,地下
+733,大华三路,Dahuasan  Road                  ,7,433,372,普通站,13,地下
+734,新村路,Xincun  Road                    ,7,444,396,普通站,14,地下
+735,岚皋路,Langao  Road                    ,7,429,414,普通站,15,地下
+736,镇坪路,Zhenping  Road                  ,7,418,433,普通站,16,地下
+737,长寿路,Changshou  Road                 ,7,454,479,换乘站,17,地下
+738,昌平路,Changping  Road                 ,7,452,509,普通站,18,地下
+739,静安寺,JingAn  Temple                  ,7,392,561,换乘站,19,地下
+740,常熟路,Changshu  Road                  ,7,450,609,换乘站,20,地下
+741,肇嘉浜路,Zhaojiabang  Road               ,7,456,654,换乘站,21,地下
+742,东安路,DongAn  Road                    ,7,522,623,换乘站,22,地下
+743,龙华中路,Middle Longhua Road             ,7,443,744,普通站,23,地下
+744,后滩,Houtan                          ,7,473,744,普通站,24,地下
+745,长清路,Changqing  Road                 ,7,502,744,普通站,25,地下
+746,耀华路,Yaohua  Road                    ,7,556,742,换乘站,26,地下
+747,云台路,Yuntai  Road                    ,7,577,741,普通站,27,地下
+748,高科西路,West  Gaoke  Road               ,7,608,747,换乘站,28,地下
+749,杨高南路,South  Yanggao  Road            ,7,650,747,普通站,29,地下
+750,锦绣路,Jinxiu  Road                    ,7,685,748,普通站,30,地下
+751,芳华路,Fanghua   Road                  ,7,722,748,普通站,31,地下
+752,龙阳路,Longyang   Road                 ,7,765,745,换乘站,32,地下
+753,花木路,Huamu  Road                     ,7,784,718,普通站,33,地下
+820,沈杜公路,Shendu highway                  ,8,371,990,普通站,1,高架
+821,联航路,Lianhang Road                   ,8,380,963,普通站,2,高架
+822,江月路,Jiangyue Road                   ,8,381,939,普通站,3,高架
+823,浦江镇,Pujiang Town                    ,8,381,911,普通站,4,高架
+824,芦恒路,Luheng Road                     ,8,382,883,普通站,5,地下
+825,凌兆新村,Lingzhao Xincun                 ,8,374,858,普通站,6,地下
+826,东方体育中心,Oriental Sports Center          ,8,359,838,换乘站,7,地下
+827,杨思,Yangsi                          ,8,468,801,普通站,8,地下
+828,成山路,Chengshan Road                  ,8,543,801,普通站,9,地下
+829,耀华路,Yaohua Road                     ,8,555,742,换乘站,10,地下
+830,中华艺术宫,China Art Museum                ,8,552,711,普通站,11,地下
+831,西藏南路,South Xizang Road               ,8,529,678,换乘站,12,地下
+832,陆家浜路,Lujiabang Road                  ,8,549,631,换乘站,13,地下
+833,老西门,Laoximen                        ,8,552,596,换乘站,14,地下
+834,大世界,Dashijie                        ,8,554,565,普通站,15,地下
+835,人民广场,People Square                   ,8,543,546,换乘站,16,地下
+836,曲阜路,Qufu Road                       ,8,596,497,换乘站,17,地下
+837,中兴路,Zhongxing Road                  ,8,551,419,普通站,18,地下
+838,西藏北路,North Xizang Road               ,8,594,397,普通站,19,地下
+839,虹口足球场,Hongkou Football Stadium        ,8,571,372,换乘站,20,地下
+840,曲阳路,Quyang Road                     ,8,663,344,普通站,21,地下
+841,四平路,Siping Road                     ,8,711,397,换乘站,22,地下
+842,鞍山新村,Anshan Xincun                   ,8,749,398,普通站,23,地下
+843,江浦路,Jiangpu Road                    ,8,804,389,普通站,24,地下
+844,黄兴路,Huangxing Road                  ,8,830,354,普通站,25,地下
+845,延吉中路,Middle Yanji Road               ,8,827,313,普通站,26,地下
+846,黄兴公园,Huangxing Park                  ,8,827,288,普通站,27,地下
+847,翔殷路,Xiangyin Road                   ,8,828,257,普通站,28,地下
+848,嫩江路,Nenjiang Road                   ,8,827,231,普通站,29,地下
+849,市光路,Shiguang Road                   ,8,825,204,普通站,30,地下
+918,松江南站,Songjiang South Railway Station ,9,94,883,普通站,1,地下
+919,醉白池,Zuibaichi Park                  ,9,92,851,普通站,2,地下
+920,松江体育中心,Songjiang Sports Center         ,9,90,815,普通站,3,地下
+921,松江新城,Songjiang Xincheng              ,9,90,783,普通站,4,地下
+922,松江大学城,Songjiang University Town       ,9,89,750,普通站,5,高架
+923,洞泾,Dongjing                        ,9,88,721,普通站,6,高架
+924,佘山,Sheshan                         ,9,88,688,普通站,7,高架
+925,泗泾,Sijing                          ,9,92,632,普通站,8,高架
+926,九亭,Jiuting                         ,9,126,673,普通站,9,地下
+927,中春路,Zhongchun Road                  ,9,155,673,普通站,10,地下
+928,七宝,Qibao                           ,9,182,672,普通站,11,地下
+929,星中路,Xingzhong Road                  ,9,212,673,普通站,12,地下
+930,合川路,Hechuan Road                    ,9,246,672,普通站,13,地下
+931,漕河泾开发区,Caohejing Hi-Teach Park         ,9,272,672,普通站,14,地下
+932,桂林路,Guilin Road                     ,9,302,671,普通站,15,地下
+933,宜山路,Yishan Road                     ,9,348,632,换乘站,16,地下
+934,徐家汇,Xujiahui                        ,9,393,654,换乘站,17,地下
+935,肇嘉浜路,Zhaojiabang Road                ,9,457,654,换乘站,18,地下
+936,嘉善路,Jiashan Road                    ,9,454,631,普通站,19,地下
+937,打浦桥,Dapuqiao                        ,9,502,635,普通站,20,地下
+938,马当路,Madang Road                     ,9,513,654,普通站,21,地下
+939,陆家浜路,Lujiabang Road                  ,9,549,631,换乘站,22,地下
+940,小南门,Xiaonanmen                      ,9,609,604,普通站,23,地下
+941,商城路,Shangcheng Road                 ,9,651,608,普通站,24,地下
+942,世纪大道,Century Avenue                  ,9,692,569,换乘站,25,地下
+943,杨高中路,Middle Yanggao Road             ,9,748,615,普通站,26,地下
+1018,航中路,Hangzhong Road                  ,10,154,602,普通站,1,地下
+1019,紫藤路,Ziteng Road                     ,10,178,601,普通站,2,地下
+1020,龙柏新村,LongBai Xincun                  ,10,206,598,普通站,3,地下
+1041,虹桥火车站,Hongqiao Railway Station        ,10,171,457,普通站,4,地下
+1042,虹桥2号航站楼,Hongqiao Airport Terminal 2     ,10,191,439,换乘站,5,地下
+1043,虹桥1号航站楼,Hongqiao Airport Terminal 1     ,10,220,541,普通站,6,地下
+1044,上海动物园,ShanghaiZoo                     ,10,234,561,普通站,7,地下
+1045,龙溪路,Longxi Road                     ,10,231,601,普通站,8,地下
+1046,水城路,Shuicheng Road                  ,10,253,602,普通站,9,地下
+1047,伊犁路,Yili Road                       ,10,276,599,普通站,10,地下
+1048,宋园路,Songyuan Road                   ,10,301,599,普通站,11,地下
+1049,虹桥路,Hongqiao Road                   ,10,325,582,换乘站,12,地下
+1050,交通大学,Jiaotong university             ,10,379,577,换乘站,13,地下
+1051,上海图书馆,Shanghai Library                ,10,390,597,普通站,14,地下
+1052,陕西南路,South Shanxi Road               ,10,460,572,普通站,15,地下
+1053,新天地,Xintiandi                       ,10,510,601,普通站,16,地下
+1054,老西门,Laoximen                        ,10,551,596,换乘站,17,地下
+1055,豫园,Yuyuan Garden                   ,10,617,603,普通站,18,地下
+1056,南京东路,East Nanjing Road               ,10,617,563,换乘站,19,地下
+1057,天潼路,Tiantong Road                   ,10,599,498,换乘站,20,地下
+1058,四川北路,North Sichuan Road              ,10,623,467,普通站,21,地下
+1059,海伦路,HaiLun Road                     ,10,635,451,换乘站,22,地下
+1060,邮电新村,Youdian Xincun                  ,10,712,411,普通站,23,地下
+1061,四平路,Siping Road                     ,10,711,397,换乘站,24,地下
+1062,同济大学,Tongji University               ,10,718,359,普通站,25,地下
+1063,国权路,Guoquan Road                    ,10,738,326,普通站,26,地下
+1064,五角场,Wujiaochang                     ,10,737,292,普通站,27,地下
+1065,江湾体育场,Jiangwan Stadium                ,10,737,261,普通站,28,地下
+1066,三门路,Sanmen Road                     ,10,737,239,普通站,29,地下
+1067,殷高东路,East Yingao Road                ,10,737,210,普通站,30,地下
+1068,新江湾城,Xinjiangwancheng                ,10,738,184,普通站,31,地下
+1114,花桥,Huaqiao                         ,11,35,260,普通站,14,高架
+1115,光明路,Guangming Road                  ,11,62,260,普通站,15,高架
+1116,兆丰路,Zhaofeng Road                   ,11,90,260,普通站,16,高架
+1117,安亭,Anting                          ,11,120,260,普通站,1,高架
+1118,上海汽车城,Shanghai  Automobile  City      ,11,144,259,普通站,2,高架
+1119,昌吉东路,East  Changji  Road             ,11,150,185,普通站,3,地面
+1120,上海赛车场,Shanghai  Circuit               ,11,170,158,普通站,4,地下
+1131,嘉定北,North  Jiading                  ,11,208,101,普通站,5,高架
+1132,嘉定西,West  Jiading                   ,11,210,146,普通站,6,高架
+1133,白银路,Baiyin  Road                    ,11,210,179,普通站,7,高架
+1134,嘉定新城,Jiading  Xincheng               ,11,212,208,普通站,8,高架
+1135,马陆,Malu                            ,11,200,226,普通站,9,高架
+1137,南翔,Nanxiang                        ,11,225,249,普通站,10,高架
+1138,桃浦新村,Taopu  Xincun                   ,11,229,274,普通站,11,地下
+1139,武威路,Wuwei  Road                     ,11,264,299,普通站,12,地下
+1140,祁连山路,Qilianshan  Road                ,11,275,319,普通站,13,地下
+1141,李子园路,Liziyuan                        ,11,304,341,普通站,14,地下
+1142,上海西站,West  Shanghai  Railway  Station,11,318,365,普通站,15,地下
+1143,真如,Zhenru                          ,11,357,386,普通站,16,地下
+1144,枫桥路,Fengqiao  Road                  ,11,350,410,普通站,17,地下
+1145,曹杨路,Caoyang  Road                   ,11,397,450,换乘站,18,地下
+1146,隆德路,Longde  Road                    ,11,399,480,普通站,19,地下
+1147,江苏路,Jiangsu  Road                   ,11,396,507,换乘站,20,地下
+1148,交通大学,Jiao Tong University            ,11,379,577,换乘站,21,地下
+1149,徐家汇,Xujiahui                        ,11,393,654,换乘站,22,地下
+1150,上海游泳馆,Shanghai Swimming Center        ,11,395,684,普通站,23,地下
+1151,龙华,Longhua                         ,11,398,727,普通站,24,地下
+1152,云锦路,Yunjin Road                     ,11,399,762,普通站,25,地下
+1153,龙耀路,Longyao Road                    ,11,395,794,普通站,26,地下
+1154,东方体育中心,Oriental Sports Center          ,11,359,838,换乘站,27,地下
+1155,三林,Sanlin                          ,11,455,879,普通站,28,地下
+1156,三林东,East Sanlin                     ,11,522,878,普通站,29,地下
+1157,浦三路,Pusan Road                      ,11,590,878,普通站,30,地下
+1158,严御路,Yanyu Road                      ,11,663,881,普通站,58,地下
+1159,御桥,Yuqiao                          ,11,728,879,普通站,32,地下
+1160,罗山路,Luoshan Road                    ,11,809,876,换乘站,33,高架
+1236,曲阜路,Qufu Road                       ,12,596,497,换乘站,1,地下
+1237,天潼路,Tiantong Road                   ,12,599,498,换乘站,2,地下
+1238,国际客运中心,International Cruise Terminal   ,12,649,500,普通站,3,地下
+1239,提篮桥,Tilan Qiao                      ,12,669,506,普通站,4,地下
+1240,大连路,Dalian Road                     ,12,698,501,换乘站,5,地下
+1241,江浦公园,Jiangpu Park                    ,12,722,501,普通站,6,地下
+1242,宁国路,Ningguo Road                    ,12,744,501,普通站,7,地下
+1243,隆昌路,Longchang Road                  ,12,767,501,普通站,8,地下
+1244,爱国路,Aiguo Road                      ,12,794,501,普通站,9,地下
+1245,复兴岛,Fuxing Island                   ,12,827,501,普通站,10,地下
+1246,东陆路,Donglu Road                     ,12,853,501,普通站,11,地下
+1247,巨峰路,Jufeng Road                     ,12,888,501,换乘站,12,地下
+1248,杨高北路,North Yanggao Road              ,12,935,501,普通站,13,地下
+1249,金京路,Jinjing Road                    ,12,961,501,普通站,14,地下
+1250,申江路,Shenjiang Road                  ,12,991,501,普通站,15,地下
+1251,金海路,Jinhai Road                     ,12,1023,505,普通站,16,地下
+1321,金运路,Jinyun Road                     ,13,224,371,普通站,1,地下
+1322,金沙江西路,West Jinshajiang Road           ,13,249,350,普通站,2,地下
+1323,丰庄,Fengzhuang                      ,13,272,380,普通站,3,地下
+1324,祁连山南路,South Qilianshan Road           ,13,297,350,普通站,4,地下
+1325,真北路,Zhengbei Road                   ,13,309,434,普通站,5,地下
+1326,大渡河路,Daduhe Road                     ,13,330,453,普通站,6,地下
+1327,金沙江路,Jinshajiang Road                ,13,343,455,换乘站,7,地下
+1328,隆德路,Longde Road ,13,,,换乘站,8,地下
+1329,武宁路,Wuning Road     ,13,,,普通站,9,地下
+1330,长寿路,Changshou Road   ,13,,,换乘站,10,地下
+1621,龙阳路,Longyang Road  ,16,,,换乘站,1,高架
+1622,华夏中路,Middle Huaxia Road,16,,,普通站,2,高架
+1623,罗山路,Luoshan Road                    ,16,808,876,换乘站,3,高架
+1624,周浦东,East Zhoupu                     ,16,810,909,普通站,4,高架
+1625,鹤沙航城,Heshahangcheng                  ,16,809,935,普通站,5,高架
+1626,航头东,East Hangtou                    ,16,797,965,普通站,6,高架
+1627,新场,Xinchang                        ,16,835,965,普通站,7,高架
+1628,上海野生动物园,Wild Animal Park                ,16,870,965,普通站,8,高架
+1629,惠南,Huinan                          ,16,915,923,普通站,9,地下
+1630,惠南东,East Huinan                     ,16,957,976,普通站,10,高架
+1631,书院,Shuyuan                         ,16,976,999,普通站,11,高架
+1632,临港大道,Lingang Avenue                  ,16,997,1022,普通站,12,地下
+1633,滴水湖,Dishui lake                     ,16,1020,1048,普通站,13,地下
