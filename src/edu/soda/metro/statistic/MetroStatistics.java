@@ -20,7 +20,6 @@ import edu.soda.metro.io.WhenAndWhere;
  */
 public class MetroStatistics {
 
-	// 根据推算出的每个乘客在地铁各站的时间点，统计地铁站内各个时间的人流量
 	public static class MetroMapper extends Mapper<Object, Text, Text, IntWritable> {
 
 		private Text head = new Text();
@@ -43,8 +42,6 @@ public class MetroStatistics {
 
 	public static class MetroReducer extends Reducer<Text, IntWritable, Text, Text> {
 
-		// 分别对应4个方向
-		// 0-上行，1-下行，2-上行等待，3-下行等待
 		private Text count = new Text();
 
 		public void reduce(Text key, Iterable<IntWritable> values, Context context)
@@ -87,7 +84,6 @@ public class MetroStatistics {
 	}
 
 	public static void main(String[] args) throws Exception {
-		// 分文件MapReduce，然后再合并一下
 		String[] ending = {"00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17"};
 		for (String str : ending) {
 			Configuration conf = new Configuration();

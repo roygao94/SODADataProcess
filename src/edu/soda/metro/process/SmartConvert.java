@@ -28,7 +28,6 @@ public class SmartConvert {
 		private Text head = new Text();
 		private Text info = new Text();
 
-		// 一卡通卡号作为Key，其他字段放在Value里
 		public void map(Object key, Text value, Context context) throws IOException, InterruptedException {
 			value = transformTextToUTF8(value, "GBK");
 			String line = value.toString();
@@ -59,7 +58,6 @@ public class SmartConvert {
 		public void reduce(Text key, Iterable<Text> values, Context context) throws IOException, InterruptedException {
 			// for (Text val : values)
 			// context.write(key, val);
-			// 对于同一乘客的所有刷卡记录，按时间排序
 			List<WhenAndWhereAndPay> timeLine = new ArrayList<>();
 			for (Text val : values) {
 				String[] split = val.toString().split(",");
@@ -74,7 +72,6 @@ public class SmartConvert {
 			String lastStation = "";
 			double lastPay = -1;
 //			int[] count = new int[4];
-			// 在刷卡记录中找出刷卡金额由0变为大于0的记录，标记为一次出行
 			for (WhenAndWhereAndPay pair : timeLine) {
 				// context.write(key, new Text(pair.toString()));
 				String time = pair.getWhen();
